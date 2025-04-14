@@ -23,13 +23,14 @@ export default function Contact() {
                         Scribe Your Message, and Let the Winds Deliver It
                     </h1>
                     <p className="text-center font-light text-sm xs:text-base">
-                        Whether you're here to collaborate, ask questions, or
-                        just say hey, this is the place to make your words
-                        travel across realms (or, you know, the internet). I'm a
-                        sorcerer in training, learning one enchantment at a
-                        time—so your scroll won’t vanish into the void. Send
-                        your thoughts through the form below, and I’ll answer
-                        when the stars align (or when I’m not deep in code).
+                        Whether you&rsquo;re here to collaborate, ask questions,
+                        or just say hey, this is the place to make your words
+                        travel across realms (or, you know, the internet).
+                        I&rsquo;m a sorcerer in training, learning one
+                        enchantment at a time&mdash;so your scroll won&rsquo;t
+                        vanish into the void. Send your thoughts through the
+                        form below, and I&rsquo;ll answer when the stars align
+                        (or when I&rsquo;m not deep in code).
                     </p>
                 </div>
                 <Form />
