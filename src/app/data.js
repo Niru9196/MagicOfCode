@@ -1,91 +1,64 @@
-/*
-Websites:
-
-- https://github.com/pmndrs/gltfjsx (GLTF JSX for 3D Models)
-- https://lucide.dev/icons/ (Lucide Icons)
-- https://github.com/anuraghazra/github-readme-stats (Github Readme Stats)
-- https://skillicons.dev (Skill Icons to show skills)
-- https://github-readme-streak-stats.herokuapp.com (Github Readme Streak Stats)
-
-:root {
-  --background: 27 27 27;
-  --foreground: 225 225 225;
-  --muted: 115 115 115;
-  --accent: 254 254 91; #FEFE5B
-}
-
-*/
-
 export const projectsData = [
     {
         id: 1,
-        name: "EcoTracker",
-        description: "Track your carbon footprint",
-        date: "2022-08-15",
-        demoLink: "https://ecotracker.example.com",
+        name: "Portfolio",
+        description: "Creative, dynamic, professional showcase website",
+        demoLink: "https://magic-of-code-4j6k.vercel.app/",
     },
     {
         id: 2,
-        name: "ArtGallery Online",
-        description: "Digital art showcase platform",
-        date: "2022-06-20",
-        demoLink: "https://artgalleryonline.example.com",
+        name: "Quiz App",
+        description: "Engaging, adaptive, timed quiz challenge",
+        demoLink: "https://quiz-app-henna-chi.vercel.app/",
     },
     {
         id: 3,
-        name: "BudgetPlanner",
-        description: "Plan and track expenses",
-        date: "2022-09-10",
-        demoLink: "https://budgetplanner.example.com",
+        name: "E-commerce Website",
+        description: "Modern, seamless, digital shopping experience.",
+        demoLink: "https://e-commerce-website-sigma-lime.vercel.app/",
     },
     {
         id: 4,
-        name: "HealthBeat",
-        description: "Monitor heart rate zones",
-        date: "2022-05-30",
-        demoLink: "https://healthbeat.example.com",
+        name: "Customize T-shirt",
+        description: "Personalized, creative, custom t-shirt designs",
+        demoLink: "https://personalize-your-shirt.vercel.app/",
     },
     {
         id: 5,
-        name: "RecipeFinder",
-        description: "Discover new recipes",
-        date: "2022-07-12",
-        demoLink: "https://recipefinder.example.com",
+        name: "Portfolio 2024",
+        description: "Showcasing skills, growth, and projects.",
+        demoLink: "https://portfolio-psi-orcin-82.vercel.app/",
     },
     {
         id: 6,
-        name: "JourneyLogger",
-        description: "Log your travels",
-        date: "2022-10-01",
-        demoLink: "https://journeylogger.example.com",
+        name: "Bubble Game",
+        description: "Number selection challenge game",
+        demoLink: "https://bubble-game-peach.vercel.app/",
     },
     {
         id: 7,
-        name: "StudyBuddy",
-        description: "Collaborative learning platform",
+        name: "Discover Book",
+        description: "Book search with word analysis",
         date: "2022-04-18",
-        demoLink: "https://studybuddy.example.com",
+        demoLink: "https://discover-book.vercel.app/",
     },
     {
         id: 8,
-        name: "TechTalk",
-        description: "Tech news aggregator",
-        date: "2022-11-05",
-        demoLink: "https://techtalk.example.com",
+        name: "Crafting Simplicity",
+        description: "HTML & CSS skill showcase.",
+        demoLink: "https://aesthetic-pied.vercel.app/",
     },
     {
         id: 9,
-        name: "FitTrack",
-        description: "Fitness and workout tracker",
-        date: "2022-03-22",
-        demoLink: "https://fittrack.example.com",
+        name: "Carbon Footprint Awareness",
+        description: "Animated carbon pollution awareness site",
+        demoLink: "https://carbon-pollution.vercel.app/",
     },
     {
         id: 10,
-        name: "MindfulMoments",
-        description: "Meditation and mindfulness app",
-        date: "2022-02-14",
-        demoLink: "https://mindfulmoments.example.com",
+        name: "Knock out To-do",
+        description: "Smart task manager",
+        demoLink: "https://github.com/Niru9196",
     },
 ];
 
