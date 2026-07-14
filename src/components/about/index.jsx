@@ -15,17 +15,11 @@ const AboutDetails = () => {
                         Mage of Modern Software Engineering
                     </h2>
                     <p className="font-light  text-xs sm:text-sm md:text-base   ">
-                        Software Engineer with 1 year of experience in the
-                        fintech domain and some internship experience. Skilled
-                        in software development with a background in the
-                        frontend, Javascript, Data Structure and Algorithm and
-                        CPP. My proficiency extends to modern technologies and
-                        best practices with a strong focus on building
-                        high-performance applications. Dedicated to coding
-                        excellence and eager to contribute to innovative,
-                        cutting-edge projects. Seeking opportunities to leverage
-                        my learning and work towards becoming a Subject Matter
-                        Expert in development.
+                        Hi, I'm Nirupama 👋
+
+                        I enjoy building software that people actually use. Over the past 2+ years, I've worked on web applications, learned to think beyond just writing code, and developed an appreciation for building products that balance user needs with technical decisions.
+                        
+                        I'm curious by nature, so you'll often find me exploring new technologies, breaking things to understand how they work, and then putting them back together (hopefully better than before). My goal is to become the kind of engineer who can own a feature from idea to production and build products that are simple, scalable, and enjoyable to use.
                     </p>
                 </ItemLayout>
 
